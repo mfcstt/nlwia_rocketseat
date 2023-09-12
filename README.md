@@ -1,3 +1,8 @@
-# nlwia_rocketseat
+# Short Summary
 
-aplicação web para criar resumos de vídeos shorts do Youtube utilizando Inteligencia Artificial para transcrever o conteúdo do vídeo e realizar o resumo do conteúdo. Esse projeto foi desenvolvido na trilha Foundations na edição NLW IA da Rocketseat.
+
+Web application to create summaries of YouTube short videos using Artificial Intelligence to transcribe the video content and generate content summaries. This project was developed in the Foundations track during the NLW AI edition by Rocketseat.
+
+
+
+
