@@ -34,9 +34,9 @@
  Clone o projeto e acesse a pasta do mesmo. 
   
  ```bash 
- $ git clone https://github.com/Jonathan-Rios/nlwia-upload-ia-api.git 
+ $ git clone https://github.com/mfcstt/nlwia_rocketseat.git 
   
- $ cd nlwia-upload-ia-api 
+ $ cd nlwia_rocketseat 
  ``` 
   
  Para iniciá-lo, siga os passos abaixo: 
