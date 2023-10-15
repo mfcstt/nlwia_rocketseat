@@ -56,47 +56,6 @@
   
  <br /> 
   
-  
-  
- ## 📓 Anotações pessoais 
-  
- <h3>Criando o projeto e suas dependências </h3> 
-  
- ```bash 
-   # Configurando do Zero 
-   ➜ npm init -y 
-  
-   ➜ npm i typescript @types/node tsx -D 
-       # [tsx] Permite que "rodemos" na hora o código typescript,  
-       # sem precisar de entregar Javascript para o Node (já que ele n entende typescript direto) 
-   ➜ npm i fastify 
-   ➜ npm i prisma -D 
-   ➜ npx prisma init --datasource-provider sqlite 
-       # Salvando alterações no Prisma 
-         # npx prisma migrate dev  
-         # Exemplo de nome: create videos and prompts 
-       # Rodando o seed disponibilizado (tem que configurar no package.json o caminho) 
-         # npx prisma db seed 
-  
-   ➜ npm i @fastify/multipart 
-     # https://github.com/fastify/fastify-multipart 
-  
-   ➜ npm i zod 
-   ➜ npm i openai 
-  
-   # Caso a versão do node tenha dificuldades de ler as ENVs, essa lib auxilia. 
-   ➜ npm i dotenv -D  
-  
-   ➜ npm i @fastify/cors 
-  
-   ➜ npm i ai 
- ```    
- <br /> 
-  
-  
- --- 
- <br /> 
-  
  <a href="https://github.com/mfcstt"> 
   <img src="https://github.com/mfcstt.png" width="100px;" alt="" /> 
   <br /> 
