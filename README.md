@@ -28,24 +28,22 @@
  ## 🚀 Como executar 
  Esse projeto possui a interface web, que é encontrada nesse [repositório](https://github.com/mfcstt/nlwia_rocketseat). 
   
- Vai ser necessário também ter uma API Key da [OpenAI](https://openai.com/) com crédito para as requisições,  
- crie um arquivo .env (seguindo o .env.example). 
-  
- Clone o projeto e acesse a pasta do mesmo. 
+ Clone o projeto 
   
  ```bash 
  $ git clone https://github.com/mfcstt/nlwia_rocketseat.git 
   
- $ cd nlwia_rocketseat 
- ``` 
   
  Para iniciá-lo, siga os passos abaixo: 
  ```bash 
  # Instalar as dependências 
  $ npm install 
   
- # Iniciar o projeto 
- $ npm run dev 
+ # Iniciar o projeto (Abra dois terminais)
+ $ npm run server
+ $ npm run web
+ 
+ 
  ``` 
  - Aparecerá no terminal o link de acesso da aplicação, geralmente na porta http://localhost:5173/. 
   
