@@ -1,5 +1,5 @@
 
-<h1 align="center">NLW IA - API color="white" </h1> 
+<h1 align="center">NLW IA - API</h1> 
 
 ![nlw](https://github.com/carloshenriquefs/nlwia/assets/54969405/767152ee-cdda-428d-99ee-1dd120e74677)
   
