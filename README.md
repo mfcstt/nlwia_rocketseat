@@ -4,10 +4,9 @@
 
  <br> 
   
- <h3 align="center">Imagem prévia da aplicação (WEB + API)</h3> 
   
  <div align="center"> 
-   <img src="https://photos.app.goo.gl/aGyDzqo72wxe7cGbA" alt="Cover" /> 
+   <img src="https://photos.app.goo.gl/aGyDzqo72wxe7cGbA" /> 
  </div> 
   
  <br> 
@@ -55,6 +54,7 @@
  Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes. 
   
  <br /> 
+---
   
  <a href="https://github.com/mfcstt"> 
   <img src="https://github.com/mfcstt.png" width="100px;" alt="" /> 
