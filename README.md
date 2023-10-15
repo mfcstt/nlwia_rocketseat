@@ -1,6 +1,5 @@
 
-<a href="https://www.rocketseat.com.br/" target="_blank"><img
-align = "center" src="https://img.shields.io/static/v1?label=NLW IA&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/></a>
+<a href="https://www.rocketseat.com.br/" target="_blank"><img src="https://img.shields.io/static/v1?label=NLW IA&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>align = "center"</a>
 
 ![nlw](https://github.com/carloshenriquefs/nlwia/assets/54969405/767152ee-cdda-428d-99ee-1dd120e74677)
   
