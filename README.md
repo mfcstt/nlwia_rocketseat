@@ -1,35 +1,13 @@
 
 <h1 align="center">NLW IA - API</h1> 
-  
- <p align="center"> 
-   <img  
-     src="https://img.shields.io/badge/Typescript-%5E5.0.2-blue" 
-     alt="Typescript Ver. 5.0.2"  
-   /> 
-   <img 
-     src="https://img.shields.io/badge/NLWIA-2023-green"  
-     alt="NLWIA-2023" 
-   /> 
-   <img  
-     alt="License" 
-     src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44&labelColor=0A1033" 
-   /> 
- </p> 
-  
- <div align="center"> 
-  
-   ![Last commit](https://img.shields.io/github/last-commit/Jonathan-Rios/nlwia-upload-ia-api?color=4DA1CD 'Last commit') &nbsp; 
-   ![Repo size](https://img.shields.io/github/repo-size/Jonathan-Rios/nlwia-upload-ia-api?color=4DA1CD 'Repo size') &nbsp; 
-   ![Languages](https://img.shields.io/github/languages/count/Jonathan-Rios/nlwia-upload-ia-api?color=4DA1CD 'Languages') &nbsp; 
-  
- </div> 
-  
+ 
+
  <br> 
   
  <h3 align="center">Imagem prévia da aplicação (WEB + API)</h3> 
   
  <div align="center"> 
-   <img src=".github/project-preview.gif?style=flat" alt="Cover" /> 
+   <img src="https://photos.app.goo.gl/aGyDzqo72wxe7cGbA" alt="Cover" /> 
  </div> 
   
  <br> 
