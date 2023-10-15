@@ -13,11 +13,15 @@
   
  Esse projeto foi desenvolvido com as seguintes tecnologias: 
   
- - [TypeScript](https://www.typescriptlang.org/) 
- - [Fastify](https://fastify.dev/) 
- - [OpenAI API](https://openai.com/) 
- - [Vercel AI SDK](https://vercel.com/blog/introducing-the-vercel-ai-sdk) 
- - [Prisma](https://www.prisma.io/) 
+  
+ ![Badge Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+ ![Badge HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
+ ![Badge CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) 
+ ![Badge JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) 
+ ![Badge OPEN IA](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white) 
+  
+  
+ <br>
   
  ## 🚀 Como executar 
  Esse projeto possui a interface web, que é encontrada nesse [repositório](https://github.com/mfcstt/nlwia_rocketseat). 
