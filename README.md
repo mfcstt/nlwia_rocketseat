@@ -54,7 +54,6 @@
  Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes. 
   
  <br /> 
----
   
  <a href="https://github.com/mfcstt"> 
   <img src="https://github.com/mfcstt.png" width="100px;" alt="" /> 
