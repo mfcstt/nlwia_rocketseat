@@ -26,7 +26,7 @@
  - [Prisma](https://www.prisma.io/) 
   
  ## 🚀 Como executar 
- Esse projeto possui a interface web, que é encontrada nesse [repositório](https://github.com/Jonathan-Rios/nlwia-upload-ia-web.git). 
+ Esse projeto possui a interface web, que é encontrada nesse [repositório](https://github.com/mfcstt/nlwia_rocketseat). 
   
  Vai ser necessário também ter uma API Key da [OpenAI](https://openai.com/) com crédito para as requisições,  
  crie um arquivo .env (seguindo o .env.example). 
