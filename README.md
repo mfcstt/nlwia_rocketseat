@@ -124,7 +124,5 @@
   <br /> 
   <sub><b>Maria Fernanda</b></sub></a> 
   
- 💠 NeverStopLearning 💠 
-  
  [![Linkedin Badge](https://img.shields.io/badge/-mfcstt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mfcstt)](https://www.linkedin.com/in/mfcstt)  
  [![Gmail Badge](https://img.shields.io/badge/-mahcosta54@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahcosta54@gmail.com)](mailto:mahcosta54@gmail.com)
