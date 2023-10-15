@@ -3,8 +3,7 @@
 ![Badge OPEN IA](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white) 
 
 ![nlw](https://github.com/carloshenriquefs/nlwia/assets/54969405/767152ee-cdda-428d-99ee-1dd120e74677)
-  
- <br> 
+
   
  ## 💜 Projeto 
  Aplicação web para criar resumos de shorts do YouTube usando Inteligência Artificial para transcrever o conteúdo do vídeo e gerar resumos de conteúdo. Este projeto foi desenvolvido na trilha Foundations durante a edição de IA da NLW pela **[Rocketseat](https://www.rocketseat.com.br/)** 
